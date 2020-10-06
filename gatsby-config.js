@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `100 days of code`,
+    title: `Joanna's 100 days of code`,
     author: {
       name: `Joanna Kalema`,
       summary: `a junior web developer learning code one line at a time.`,
@@ -63,7 +63,7 @@ module.exports = {
         name: `Gatsby Starter Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#E8D4FE`,
+        background_color: `#ecdafc`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
