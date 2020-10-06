@@ -1,6 +1,6 @@
 ---
 title: 100 days of Code!
-date: "2020-09-29"
+date: "2020-09-27"
 description: "100 days of code challenge "
 ---
 

@@ -5,11 +5,11 @@ module.exports = {
       name: `Joanna Kalema`,
       summary: `a junior web developer learning code one line at a time.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
-    social: {
-      // twitter: `kylemathews`,
-    },
+    // description: `A starter blog demonstrating what Gatsby can do.`,
+    // siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    // social: {
+    //   // twitter: `kylemathews`,
+    // },
   },
   plugins: [
     {
