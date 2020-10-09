@@ -1,17 +1,14 @@
 ---
 title: Day 11!
-date: "2020-10-08"
+date: "2020-10-09"
 ---
 
 I am continuing working through the Javascript course on Codecademy: [Javascript course](https://www.codecademy.com/learn/introduction-to-javascript) 
 
-Today I went through Advanced Objects and some of the things learnt :
+Today I went through  and some of the things learnt :
 
- - How to use the this keyword.
- - conveying privacy in JavaScript methods.
- - defining getters and setters in objects.
- - creating factory functions.
- - using destructuring techniques.
+Also continuing to work on different frontend mockups with code to stretch my frontend skills and learn how to make my pages look aesthetically pleasing with code!
+
 
 
 
