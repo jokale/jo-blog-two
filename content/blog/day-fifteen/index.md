@@ -54,6 +54,13 @@ class ShoppingCart extends React.Component {
 `
 
 - Use PropTypes to Define the Props You Expect
+We can also use proptypes to gauge what type of props we expect whether its a number, a boolean or a string and we can ensure that if we are getting data from an API we can require that the data we are obtaining from the api is only a number or a string or a boolean.
+
+``` itemName.propTypes = {
+  props: PropTypes.dataType.isRequired
+};
+`
+
 - Access Props Using this.props
 - Review Using Props with Stateless Functional Components
 - Create a Stateful Component
