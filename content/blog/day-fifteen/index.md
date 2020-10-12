@@ -33,6 +33,26 @@ ShoppingCart.defaultProps = {
 
 
 - Override Default Props
+Props can also be overridden if we want to change their value 
+
+``` const Items = (props) => {
+  return <h1>Current Quantity of Items in Cart: {props.quantity}</h1>
+}
+
+Items.defaultProps = {
+  quantity: 0
+}
+
+class ShoppingCart extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+  render() {
+    return <Items quantity ={10} />
+  }
+};
+`
+
 - Use PropTypes to Define the Props You Expect
 - Access Props Using this.props
 - Review Using Props with Stateless Functional Components
