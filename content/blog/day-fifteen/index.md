@@ -12,7 +12,26 @@ Today I will be focusing on React and going over some basics :
 
 With the aim of looking over this things over the week and building a Q&A app over the weekend 
 
-- Use Default Props
+- Use Default Props 
+Whereby within React I am able to assign default props to a component meaning I don't have to assign the prop a value when it intially instiate it however I can set the value later as I have done in the code example
+
+``` const ShoppingCart = (props) => {
+  return (
+    <div>
+      <h1>Shopping Cart Component</h1>
+    </div>
+  )
+};
+// Change code below this line
+
+ShoppingCart.defaultProps = {
+  items: 0
+}
+`
+
+
+
+
 - Override Default Props
 - Use PropTypes to Define the Props You Expect
 - Access Props Using this.props
