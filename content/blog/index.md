@@ -14,11 +14,11 @@ Today I looked over :
 
 
 
-- Create a Stateful Component
-- Render State in the User Interface
-- Render State in the User Interface Another Way
-- Set State with this.setState
-- Bind ‘this’ to a Class Method
+- Creating a Stateful Component
+- Rendering State in the User Interface
+- Rendering State in the User Interface Another Way
+- Setting State with this.setState
+- Binding ‘this’ to a Class Method
 
 
 - Use State to Toggle an Element
