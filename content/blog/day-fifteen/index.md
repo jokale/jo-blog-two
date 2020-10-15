@@ -1,10 +1,9 @@
 
 
-
 ---
 title: Day 15!
 date: "2020-10-12"
----
+--
 
 It is the beginning of week 3!
 Today I will be focusing on React and going over some basics :
@@ -12,7 +11,7 @@ Today I will be focusing on React and going over some basics :
 
 With the aim of looking over this things over the week and building a Q&A app over the weekend 
 
-- Use Default Props 
+ Use Default Props 
 Whereby within React I am able to assign default props to a component meaning I don't have to assign the prop a value when it intially instiate it however I can set the value later as I have done in the code example
 
 ``` const ShoppingCart = (props) => {

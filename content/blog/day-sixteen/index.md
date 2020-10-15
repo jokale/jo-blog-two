@@ -3,7 +3,7 @@ title: Day 16!
 date: "2020-10-13"
 ---
 
-It is the beginning of week 3!
+
 Today I will be focusing on React and going over some basics :
 
 
