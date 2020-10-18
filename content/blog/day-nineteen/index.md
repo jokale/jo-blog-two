@@ -1,6 +1,6 @@
 ---
 title: Day 19!
-date: "2020-10-15"
+date: "2020-10-16"
 ---
 
 Today I will be focusing on working on my mock tattoo website page where I am using different  CSS techiniques whereby I had managed to embed a google map on my location page and fix the form to look better!
