@@ -3,7 +3,7 @@
 ---
 title: Day 15!
 date: "2020-10-12"
---
+---
 
 It is the beginning of week 3!
 Today I will be focusing on React and going over some basics :
