@@ -30,8 +30,7 @@ ShoppingCart.defaultProps = {
 
 
 
-
-- Override Default Props
+ Override Default Props
 Props can also be overridden if we want to change their value 
 
 ``` const Items = (props) => {
@@ -74,7 +73,7 @@ We can also use proptypes to gauge what type of props we expect whether its a nu
 - Pass State as Props to Child Components
 
 
-[Medium](https://medium.com/@kalemajoanna).
+[Medium](https://medium.com/@kalemajoanna)
 [LinkedIn](https://www.linkedin.com/in/joanna-e-kalema-a5a5b4136/)
 [Portfolio](https://joannathedeveloper.netlify.app/)
 
