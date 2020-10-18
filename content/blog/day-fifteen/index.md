@@ -26,11 +26,11 @@ Whereby within React I am able to assign default props to a component meaning I 
 ShoppingCart.defaultProps = {
   items: 0
 }
-`
+```
 
 
 
- Override Default Props
+ - Override Default Props
 Props can also be overridden if we want to change their value 
 
 ``` const Items = (props) => {
@@ -49,7 +49,7 @@ class ShoppingCart extends React.Component {
     return <Items quantity ={10} />
   }
 };
-`
+```
 
 - Use PropTypes to Define the Props You Expect
 We can also use proptypes to gauge what type of props we expect whether its a number, a boolean or a string and we can ensure that if we are getting data from an API we can require that the data we are obtaining from the api is only a number or a string or a boolean.
@@ -57,7 +57,7 @@ We can also use proptypes to gauge what type of props we expect whether its a nu
 ``` itemName.propTypes = {
   props: PropTypes.dataType.isRequired
 };
-`
+```
 
 - Access Props Using this.props
 - Review Using Props with Stateless Functional Components
