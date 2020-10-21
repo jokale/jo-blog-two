@@ -5,6 +5,9 @@ date: "2020-10-21"
 
 Today I will be working on focusing on understanding: 
 
+- Watch this 1 hour video course 
+[Algorithims](https://scrimba.com/learn/algorithmsguide)
+
 - Using Advanced JavaScript in React Render Method
 - Rendering with an If/Else Condition
 - Using && for a More Concise Conditional
