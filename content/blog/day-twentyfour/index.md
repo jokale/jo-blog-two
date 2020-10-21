@@ -7,11 +7,16 @@ Today I will be working on focusing on understanding:
 
 - Watch this 1 hour video course 
 [Algorithims](https://scrimba.com/learn/algorithmsguide)
+Algorithims are much harder than they may seem. Defintely something I must continue to work on despite wanting to persue frontend development.
 
-- Using Advanced JavaScript in React Render Method
+- Using Advanced JavaScript in React Render Method 
+Here I learnt I don't always have to use JSX in my render method
 - Rendering with an If/Else Condition
+I still need to work on loops 
 - Using && for a More Concise Conditional
 - Using a Ternary Expression for Conditional Rendering
+
+
 - Rendering Conditionally from Props
 
 - And working on my mockup:
