@@ -9,7 +9,6 @@ Today I will be working on focusing on understanding:
 - Optimizing Re-Renders with shouldComponentUpdate
 - Introducing Inline Styles
 - Adding Inline Styles in React
-- Using Advanced JavaScript in React Render Method
 - And continuing to work on my mock tattoo website page where I am using different  CSS techiniques whereby I had managed to embed a google map on my location page and fix the form to look better!
 
 [Github mock up](https://github.com/jokale/mock-up)
