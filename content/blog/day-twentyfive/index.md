@@ -1,6 +1,6 @@
 ---
 title: Day 25!
-date: "2020-10-21"
+date: "2020-10-22"
 ---
 
 Today I will be working on focusing on understanding: 
