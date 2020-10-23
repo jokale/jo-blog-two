@@ -13,7 +13,7 @@ Today I will be working on focusing on understanding:
 - And working on my mockup:
 [Github mock up](https://github.com/jokale/mock-up)
 
-- As well as trying to build an Air bnb clone 
+- As well as trying to build an Air bnb clone and learn about Elasticsearch
 [Air bnb clone](https://scotch.io/tutorials/build-an-airbnb-clone-with-react-and-elasticsearch)
 
 
