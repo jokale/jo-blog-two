@@ -7,6 +7,7 @@ Today I will be working on focusing on understanding:
 
 - React native
 - Start a react native build 
+[First React native build](https://github.com/jokale/reactNativeProject)
 - Research more into Figma the web design 
 
 - And working on my mockup:
