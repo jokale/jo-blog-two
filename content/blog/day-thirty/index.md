@@ -7,7 +7,7 @@ I am still focusing on understanding:
 
 - React native
 - Start a react native build 
-[First React native build](https://github.com/jokale/reactNativeProject)
+[First React native build](https://github.com/jokale/rdeeactNativeProject)
 - Research more into Figma the web design 
 
 - And working on my mockup:
