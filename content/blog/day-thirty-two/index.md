@@ -1,13 +1,12 @@
 ---
-title: Day 31!
+title: Day 32!
 date: "2020-10-28"
 ---
 
 I am still focusing on understanding: 
 
 - React native
-- Start a react native build 
-[First React native build](https://github.com/jokale/rdeeactNativeProject)
+- Started a React native Todo app : [Todo App](https://github.com/jokale/TodoAppRN)
 
 
 
