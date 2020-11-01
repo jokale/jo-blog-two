@@ -1,6 +1,6 @@
 ---
 title: Day 32!
-date: "2020-10-28"
+date: "2020-10-29"
 ---
 
 I am still focusing on understanding: 
