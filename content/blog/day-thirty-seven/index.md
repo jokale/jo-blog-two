@@ -2,7 +2,7 @@
 title: Day 37!
 date: "2020-11-09"
 ---
-
+Officially week 5!
 Taken a week hiatus due to illness, however not sure if that is cheating lol but will get back into coding again
 
 - working on my two different mockups 
