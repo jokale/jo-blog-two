@@ -17,6 +17,15 @@ Over the course of the day I will continue to :
 - Watch some videos on Figma and Firebase!
 
 
+*UPDATE*
+
+I have finished trying to fix up my [React native todo application](https://github.com/jokale/TodoAppRN) adding some styling but still trying to figure out how to deploy it to somewhere like netlify and not the app store ( I don't think its worthwhile deploying to the app store lool). It is still rough around the edges however I will continue working on it.
+
+
+After learning some basics of Figma, I decided to make a protype mimicking my portfolio [Portfolio prototype](https://www.figma.com/file/9QUoWPtQ2dnWBU3x8EzHGt/Mock-1?node-id=0%3A1) again also rough around the edges but I am pretty happy considering I watched a 15 minute video and started to mess around with the style! 
+
+
+
 
 Follow me on here:
 
