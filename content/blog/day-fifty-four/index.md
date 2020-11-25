@@ -1,10 +1,10 @@
 ---
-title: Day 51!
-date: "2020-11-23"
+title: Day 54!
+date: "2020-11-25"
 ---
 
 
-Working on understanding jquery
+Working on understanding jquery  and thinking about a project whereby I have to render state and use onclicks to render this state.
 
 Follow me on here:
 
