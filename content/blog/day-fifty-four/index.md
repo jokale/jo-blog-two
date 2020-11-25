@@ -4,7 +4,11 @@ date: "2020-11-25"
 ---
 
 
-Working on understanding jquery  and thinking about a project whereby I have to render state and use onclicks to render this state.
+Working on understanding jquery 
+
+Having watched a few videos on Jquery I understand that it is best not to use React and Jquery together!
+
+ and thinking about a project whereby I have to render state and use onclicks to render this state.
 
 Follow me on here:
 
