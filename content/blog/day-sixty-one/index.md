@@ -1,6 +1,6 @@
 ---
 title: Day 61!
-date: "2020-12-03"
+date: "2020-12-02"
 ---
 
 
@@ -10,6 +10,8 @@ Continuing to go over
 - Displaying State with JSX
 
  
+Despite understanding state, I find it helpful to get a refresher on how it can be loaded and displayed on the page as it isn't always an onclick 
+
 
 Follow me on here:
 

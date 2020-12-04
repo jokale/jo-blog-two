@@ -1,15 +1,14 @@
 ---
-title: Day 61!
-date: "2020-12-02"
+title: Day 62!
+date: "2020-12-03"
 ---
 
 
-Continuing to go over 
+Continuing to go over state and how it can be manipulated 
 
 - Loading data into state onClick
 - Displaying State with JSX
 
-Despite understanding state, I find it helpful to get a refresher on how it can be loaded and displayed on the page as it isn't always an onclick 
 
 Follow me on here:
 
