@@ -15,9 +15,12 @@ As well as thinking about potential projects utilising Firebase, maybe a chat ap
 
 UPDATES :
 
-I have decided to make diary web app whereby the user can log in and write a diary entry so I can try utlise firebase authentication and sign in/log in
+- I have decided to make diary web app whereby the user can log in and write a diary entry so I can try utlise firebase authentication and sign in/log in
 
 
+[What is Window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+- I didn't know local storage actually existed but I know understand it to be a data related to that specific web app/application whereby the stored data is saved across browser sessions and the data in their has no expiration time, meaning the data can be accessed at any time.
 
 
 [Medium](https://medium.com/@kalemajoanna).
