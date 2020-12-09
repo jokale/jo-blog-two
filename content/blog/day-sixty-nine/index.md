@@ -13,6 +13,10 @@ Today I will be continuing to look over :
 
 As well as thinking about potential projects utilising Firebase, maybe a chat app or an app whereby a user can log in
 
+UPDATES :
+
+I have decided to make diary web app whereby the user can log in and write a diary entry so I can try utlise firebase authentication and sign in/log in
+
 
 
 
