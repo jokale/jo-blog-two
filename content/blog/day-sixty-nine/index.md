@@ -22,6 +22,8 @@ UPDATES :
 
 - I didn't know local storage actually existed but I know understand it to be a data related to that specific web app/application whereby the stored data is saved across browser sessions and the data in their has no expiration time, meaning the data can be accessed at any time.
 
+[Bi-directional data flow](https://github.com/wesbos/React-For-Beginners-Transcriptions/blob/master/17%20-%20Bi-Directional%20Data%20Flow%20with%20LinkState.md)
+
 
 [Medium](https://medium.com/@kalemajoanna).
 
