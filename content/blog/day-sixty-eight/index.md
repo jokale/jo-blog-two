@@ -13,6 +13,11 @@ Today I will be refoucusing and recircling on
 As well as thinking about potential projects utilising Firebase
 
 
+Looking in depth I had seen there were several different ways that state can persist with state and theres different types 
+
+[Firebase state](https://firebase.google.com/docs/auth/web/auth-state-persistence)
+
+
 [Medium](https://medium.com/@kalemajoanna).
 
 [LinkedIn](https://www.linkedin.com/in/joanna-e-kalema-a5a5b4136/)
