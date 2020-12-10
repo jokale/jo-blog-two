@@ -10,6 +10,7 @@ Today I will be continuing to look over :
 - Removing Items from State
 - Animating React Components
 - Continuing to work on my prototype diary App utilising Firebase for authentication and potentially the backend!
+- Lastly looking into Next.js (a React framework for super-fast sites)
 
 
 
