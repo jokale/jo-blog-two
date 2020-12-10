@@ -1,9 +1,9 @@
 ---
-title: Day 69!
-date: "2020-12-09"
+title: Day 70!
+date: "2020-12-10"
 ---
 
-After several days I have realised that within this challenge I don't need to rush through content and concepts. I can take as long as I need and if it means I need to take 3 days to understand then I will take 3 days!
+Day 70!!! 30 more days till I am done!
 
 Today I will be continuing to look over :
 
