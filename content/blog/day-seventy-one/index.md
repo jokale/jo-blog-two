@@ -35,6 +35,8 @@ I will start building up the prototype of my diary app to get a better idea of h
 Will attach how the prototype looks below!
 
 
+![Prototype](./hello.png)
+
 
 [Medium](https://medium.com/@kalemajoanna).
 
