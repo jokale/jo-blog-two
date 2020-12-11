@@ -15,8 +15,10 @@ Today I will be continuing to look over :
 
 
 ```UPDATES :```
+- Next.js seems to be very interesting I need to look into utlising it 
+- I didn't realise there were so many ways you could animate React components [ 5 ways to Animate React Components](https://medium.com/hackernoon/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
 
-
+- There are several methods to remove items from State but it depends if you want to remove it from the DOM or both State and the DOM
 
 [Medium](https://medium.com/@kalemajoanna).
 
