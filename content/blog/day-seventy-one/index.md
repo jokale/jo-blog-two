@@ -34,8 +34,12 @@ I will start building up the prototype of my diary app to get a better idea of h
 
 Will attach how the prototype looks below!
 
+##### My Diary prototype
 
-![Prototype](./hello.png)
+Below is my prototype for the app I am looking to build. It will be a basic notes style app with authentication to ensure not everyone can see your diary entries and that different people will have different diary entries!
+![Prototype](./mydiary.png)
+
+
 
 
 ##### My links 
