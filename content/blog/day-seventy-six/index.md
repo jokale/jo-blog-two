@@ -40,7 +40,8 @@ Added some pictures below to show the difference
 [More info](https://stackoverflow.com/questions/48151128/difference-between-production-and-development-build-in-reactjs#:~:text=The%20production%20build%2C%20on%20the,you're%20loading%20with%20Webpack.)
 
 
-
+#### Now deployment?
+After much googles I figured out that Now.sh has now become Vercel which to me seems to be ideal for deploying with a team
 
 
 ##### My links 
