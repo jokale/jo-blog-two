@@ -29,6 +29,7 @@ I have a [React google plugin](https://chrome.google.com/webstore/detail/react-d
 Added some pictures below to show the difference 
 
 ![Development mode](./dev.png)
+
 ![Production mode](./production.png)
 
 [Production build](https://create-react-app.dev/docs/production-build/)
