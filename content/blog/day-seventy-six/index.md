@@ -31,6 +31,7 @@ Added some pictures below to show the difference
 [Development mode](./dev.png)
 [Production mode](./production.png)
 
+[Production build](https://create-react-app.dev/docs/production-build/)
 [More info](https://stackoverflow.com/questions/48151128/difference-between-production-and-development-build-in-reactjs#:~:text=The%20production%20build%2C%20on%20the,you're%20loading%20with%20Webpack.)
 
 
