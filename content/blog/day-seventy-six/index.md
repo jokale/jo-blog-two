@@ -1,6 +1,6 @@
 ---
-title: Day 75!
-date: "2020-12-15"
+title: Day 76!
+date: "2020-12-16"
 ---
 
 
@@ -10,7 +10,7 @@ Today I will be focusing on
 - Building React for Production
 - Deploying to Now
 
-I have never used Now so it will interesting to see how it differs from Netlify.
+I have never used Now so it will interesting to see how it differs from Netlify and potentially I will use it to deploy my project 
 
 I will continue to build my project and try continue work around firebase.
 
