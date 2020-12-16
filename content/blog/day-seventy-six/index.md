@@ -16,6 +16,24 @@ I will continue to build my project and try continue work around firebase.
 
 
 
+#### Updates:
+
+It seems as though without realising I have been building in React in development mode which makes sense because when you are building a project it is in the development stages! When it is deployed it is then in the production build mode.
+
+##### what does production build actually mean?
+
+In simple laymans terms production build is basically your project in a compressed form so it means when we render the project on our browser  during production build we can see it quickly.
+
+I have a [React google plugin](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) that shows me if my project is in production or development mode. 
+
+Added some pictures below to show the difference 
+
+[Development mode](./dev.png)
+[Production mode](./production.png)
+
+[More info](https://stackoverflow.com/questions/48151128/difference-between-production-and-development-build-in-reactjs#:~:text=The%20production%20build%2C%20on%20the,you're%20loading%20with%20Webpack.)
+
+
 
 
 
