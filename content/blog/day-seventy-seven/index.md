@@ -15,6 +15,16 @@ I have consisently been deploying all my complete projects to Netlify since my b
 
 #### Updates:
 
+###### What is an Apache Server?
+[Apache Server](https://www.youtube.com/watch?v=kaaenHXO4t4)
+[What is Apache](https://www.wpbeginner.com/glossary/apache/)
+[What Apache does](https://www.sumologic.com/blog/apache-web-server-introduction/)
+
+
+###### what is ejecting ?
+
+[Why you shouldn't eject](https://medium.com/curated-by-versett/dont-eject-your-create-react-app-b123c5247741)
+
 
 
 ##### My links 
