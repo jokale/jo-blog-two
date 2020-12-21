@@ -29,6 +29,8 @@ He also mentioned boiler plate code and I realised I had never heard about this 
 Now I am on a hunt to find good state management framework/library I could use in addition to using the local storage of a component.
 
 
+I think tomorrow I will think about good ideas for mock landing pages utlising Formnik
+
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna).
 
