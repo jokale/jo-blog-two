@@ -1,6 +1,6 @@
 ---
-title: Day 79!
-date: "2020-12-19"
+title: Day 80!
+date: "2020-12-20"
 ---
 
 Still rebuilding my diary app available here :
