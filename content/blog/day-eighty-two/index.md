@@ -1,6 +1,6 @@
 ---
 title: Day 82!
-date: "2020-12-21"
+date: "2020-12-22"
 ---
 
 Today I will be going over : 
