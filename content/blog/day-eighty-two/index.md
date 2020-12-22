@@ -21,6 +21,16 @@ In turn whilst trying to learn about Hooks, I in turn learnt that react has a te
 
 [React Hooks vs Classes](https://medium.com/better-programming/react-hooks-vs-classes-add2676a32f2)
 
+
+###### React Component Patterns
+
+I'll be honest I had no idea what a React Component pattern was but sometimes with code you may be doing something the right way and have no idea. Everyone has their own way of writing out functional code and tweak it to their personal or professional preference but it was great to see that there are set patterns out there which can help a new developer like me. Enusres my code is written well and is clear but also that I can render and pass down props with ease!
+
+
+[React Component Patterns by Michael Chan](https://www.youtube.com/watch?v=YaZg8wg39QQ)
+[React Design patterns](https://www.youtube.com/watch?v=axL59Dc5rZA)
+[Patterns](https://medium.com/better-programming/3-react-component-patterns-every-beginner-to-intermediate-react-developers-need-to-know-f6e3155a74e3)
+
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna).
 
