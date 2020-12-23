@@ -37,6 +37,61 @@ Moving forward I will try my hand at writing tests in Jest line by line and I wo
 [React testing](https://reactjs.org/docs/testing.html)
 
 
+###### What is React Router 
+
+ React Router is the standard routing library for React which basically means it allows us to create different routes to different routes in our project 
+
+ ```
+
+export default function BasicExample() {
+  return (
+    <Router>
+      <div>
+        <ul>
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+          <li>
+            <Link to="/about">About</Link>
+          </li>
+          <li>
+            <Link to="/dashboard">Dashboard</Link>
+          </li>
+        </ul>
+
+        <hr />
+
+        {/*
+          A <Switch> looks through all its children <Route>
+          elements and renders the first one whose path
+          matches the current URL. Use a <Switch> any time
+          you have multiple routes, but you want only one
+          of them to render at a time
+        */}
+        <Switch>
+          <Route exact path="/">
+            <Home />
+          </Route>
+          <Route path="/about">
+            <About />
+          </Route>
+          <Route path="/dashboard">
+            <Dashboard />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
+  );
+  ```
+
+  Above is an example of how it looks courtesy of [React Router example](https://reactrouter.com/web/example/basic)!
+
+
+  To get a better understanding of Routing check below out [React Router philosophy](https://reactrouter.com/web/guides/philosophy)
+
+
+
+
 
 
 ##### My links 
