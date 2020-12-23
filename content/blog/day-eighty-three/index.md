@@ -31,7 +31,7 @@ Below are a few test runners that work hand in hand with React like:
 - ava
 - expect
 
-Moving forward I will try my hand at writing tests in Jest line by line!
+Moving forward I will try my hand at writing tests in Jest line by line and I wonder if its better practice to write tests before writing up your code or afterwards?
 
 
 [React testing](https://reactjs.org/docs/testing.html)
