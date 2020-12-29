@@ -13,6 +13,11 @@ It can be all very overwhelming trying to find an idea but I found an amazing ar
 
 #### Updates:
 
+This is how my single component is currently looking, took me an hour to just get all the positioning correct and I am now thinking there must be an easier way to get everythibg the same size and postiion. 
+
+![Single component](./sc1.png)
+
+
 
 
 
