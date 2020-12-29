@@ -17,6 +17,11 @@ This is how my single component is currently looking, took me an hour to just ge
 
 ![Single component](./sc1.png)
 
+Sometimes pushing forward helps this looks much better
+
+![Single component updated](./sc2.png)
+
+
 
 
 
