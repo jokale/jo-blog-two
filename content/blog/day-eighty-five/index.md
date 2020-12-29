@@ -21,6 +21,17 @@ Sometimes pushing forward helps this looks much better
 
 ![Single component updated](./sc2.png)
 
+How it finally looks 
+
+![Single component final](./sc3.png)
+
+I didn't actually use flexbox as I didn't need to but this was a great challenge to refresh my coding skills.
+The component is static but the sign up button has a hover element.
+To improve upon this component I would create another component where the sign up button can actually lead to a form where the user could sign up.
+
+Doing this has taught there is so much CSS can do and I have merely scratched the surface!
+
+
 
 
 
