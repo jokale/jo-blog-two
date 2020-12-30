@@ -15,23 +15,17 @@ I am still conviced there is a better way to align everything and I am sure its 
 
 #### Updates:
 
-This is how my single component is currently looking, took me an hour to just get all the positioning correct and I am now thinking there must be an easier way to get everythibg the same size and postiion. 
 
-![Single component](./sc1.png)
 
-Sometimes pushing forward helps this looks much better
+##### My links 
+[Medium](https://medium.com/@kalemajoanna).
 
-![Single component updated](./sc2.png)
+[LinkedIn](https://www.linkedin.com/in/joanna-e-kalema-a5a5b4136/)
 
-How it finally looks 
+[Portfolio](https://joannathedeveloper.netlify.app/)
 
-![Single component final](./sc3.png)
 
-I didn't actually use flexbox as I didn't need to but this was a great challenge to refresh my coding skills.
-The component is static but the sign up button has a hover element.
-To improve upon this component I would create another component where the sign up button can actually lead to a form where the user could sign up.
 
-Doing this has taught there is so much CSS can do and I have merely scratched the surface!
 
 
 
