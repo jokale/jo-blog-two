@@ -15,7 +15,11 @@ I am still conviced there is a better way to align everything and I am sure its 
 
 #### Updates:
 
+This is how the page is currently looking with no styling
 
+![Update 1](./fourcards1.png)
+
+I like to get everything on the page and then start working on each component or segment of the page one by one .
 
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna).
