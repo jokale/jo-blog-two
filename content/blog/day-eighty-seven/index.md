@@ -10,6 +10,10 @@ Check it out here [Four cards project](https://github.com/jokale/4comp)
 
 #### Updates:
 
+This is how the page is currently; 
+I have created all the four cards now I just need to position them all in the correct place!
+
+![Update 2](./update1.png)
 
 
 ##### My links 
