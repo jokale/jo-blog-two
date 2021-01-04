@@ -12,6 +12,16 @@ Check it out here [Four cards project](https://github.com/jokale/4comp)
 
 #### Updates:
 
+It is finally complete!!!
+Sometimes you really need to just switch on and focus and get the project done.
+
+This is how it looks finally:
+
+![Final](./final.png)
+
+It has been a long few days but its been a great learning experience and has made me realise there is always more to learn about CSS.
+
+I utilised [w3schools](https://www.w3schools.com/css/css_positioning.asp) to learn about CSS positioning.
 
 
 ##### My links 
