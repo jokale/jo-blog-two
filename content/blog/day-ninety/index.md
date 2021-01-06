@@ -13,7 +13,7 @@ Once complete I will be using Vercel to deploy the site which I discovered yeste
 
 #### Updates:
 
-My project is now complete! Check it out here: (Huddle)[https://huddle-iota.vercel.app/]
+My project is now complete! Check it out here: [Huddle](https://huddle-iota.vercel.app/)
 
 Now it isn't an exactly the same as you can see the social media icons are missing borders.
 But what was good was being able to use SVG files to actually create the background of the website which I didn't know you could do. For future projects I may try and build my own svg images to use as background templates. 
@@ -37,7 +37,7 @@ here [Media query units](https://zellwk.com/blog/media-query-units/)
 
 
 ##### My links 
-[Medium](https://medium.com/@kalemajoanna).
+[Medium](https://medium.com/@kalemajoanna)
 
 [LinkedIn](https://www.linkedin.com/in/joanna-e-kalema-a5a5b4136/)
 

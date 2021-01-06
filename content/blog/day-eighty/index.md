@@ -11,7 +11,7 @@ Still rebuilding my diary app available here :
 
 
 ##### My links 
-[Medium](https://medium.com/@kalemajoanna).
+[Medium](https://medium.com/@kalemajoanna)
 
 [LinkedIn](https://www.linkedin.com/in/joanna-e-kalema-a5a5b4136/)
 
