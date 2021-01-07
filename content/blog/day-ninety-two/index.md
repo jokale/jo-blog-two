@@ -43,6 +43,12 @@ My project is currently deployed [base apparel](https://base-apparel.jokale.verc
 This [Mozilla attribute patterns](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/pattern) link has been helpful in helping distinguish what pattern I need to ensure that only specific things are passed through.
 I also didn't realise that these attributes come with automated 'effects' for lack of a better term. Meaning when I give my input a specific pattern to follow if the user inputs something that does not match this input then a little error will come up on the page which is great!
 
+###### Update 3
+
+Despite my code being functional, using alerts is ugly lol. 
+Doing some research I found an alternative to alerts which are [Modal boxes](https://www.w3schools.com/howto/howto_css_modals.asp)
+
+I am going to try use this and see if this works better
 
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna)
