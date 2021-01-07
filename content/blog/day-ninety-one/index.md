@@ -26,7 +26,6 @@ Once complete I will be using Vercel to deploy the site.
 #### Updates:
 
 
-
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna)
 
