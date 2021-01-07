@@ -25,6 +25,27 @@ Once complete I will be using Vercel to deploy the site.
 
 #### Updates:
 
+Created some validation through a handleClick function through an onClick with my submit button :
+
+```
+   handleClick (e) {
+    var x = document.forms["form"]["email"].value;
+
+    if (x === "") {
+      alert("Email must be filled out");
+      return false;
+    }
+    else {
+      alert("Thanks we will email you when the store is open!")
+
+    }
+  }
+  
+```
+
+Whereby if the user email input is equal to nothing then the user will get an alert on the page where it reads email must be filled out. 
+However I don't want to annoy the user with alerts but rather with text on the page. 
+I will keep working on this.
 
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna)
