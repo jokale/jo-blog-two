@@ -47,6 +47,15 @@ Whereby if the user email input is equal to nothing then the user will get an al
 However I don't want to annoy the user with alerts but rather with text on the page. 
 I will keep working on this.
 
+
+###### Update 2
+
+My project is currently deployed [base apparel](https://base-apparel.jokale.vercel.app/) but I need to tweak the email pattern.
+
+This [Mozilla attribute patterns](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/pattern) link has been helpful in helping distinguish what pattern I need to ensure that only specific things are passed through.
+I also didn't realise that these attributes come with automated 'effects' for lack of a better term. Meaning when I give my input a specific pattern to follow if the user inputs something that does not match this input then a little error will come up on the page which is great!
+
+
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna)
 
