@@ -29,6 +29,12 @@ I watched two videos where one used [Vanilla javascript](https://www.youtube.com
 Nonetheless Modal boxes seem to a good alternative to alerts which are pretty ugly!
 
 
+###### Update 2
+
+Decided to go with [freecodecamp](https://www.freecodecamp.org/learn/) I find the interface of codeacadmey is a bit distracting whereas freecodecamp is straight to the point and easy to understand.
+
+Currently going through their Javascript Algorithms and Data Structures Certification whereby now I am focusing on Basic javascript which is giving me a nice refresher on some basic Javascript concepts!
+
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna)
 
