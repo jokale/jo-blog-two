@@ -21,6 +21,12 @@ Today I will be looking over
 
 #### Updates:
 
+Everyday I stumble across something new that makes me release there is so much out there that I don't even realise will make my coding experience easier which is what all of us want.
+
+From what I understand the way Modal boxes are the same throughout but dependent upon which framework/language is being used it will be implemented differently. 
+For example I use react so I will actually have to install [Modal for React](https://www.npmjs.com/package/react-modal) as a package so I can actually use it in my projects.
+I watched two videos where one used [Vanilla javascript](https://www.youtube.com/watch?v=KjQ8uvAt9kQ) and another using [React framework](https://www.youtube.com/watch?v=10FNqoPpNbE) which in theory do the same thing but the way it is done is different. 
+Nonetheless Modal boxes seem to a good alternative to alerts which are pretty ugly!
 
 
 ##### My links 
