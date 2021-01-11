@@ -20,7 +20,11 @@ I wish I had started with the certifications first but regardless I have learnt 
 
 
 #### Updates:
+This is currently how my project is looking like :
 
+![Preview](./preview.png)
+
+Still a bit rough around the edges but looking to add the finishing touches and form validation over the next few days.
 
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna)
