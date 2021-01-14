@@ -11,6 +11,13 @@ Loops and Switch statements will still be my achilles heel!
 
 #### Updates:
 
+During working through the Responsive Web Design Certification
+
+There was one module that stood out which was Applied Accessibility.
+It reminded me I often do not make my code as accessible to those who have difficulty seeing and/or hearing. Forgetting alt tags and such alike makes it harder for web pages to be more accesible.
+
+Moving forward I will ensure that my code is always accessible!
+
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna)
 
