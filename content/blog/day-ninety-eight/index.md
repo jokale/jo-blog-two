@@ -1,6 +1,6 @@
 ---
-title: Day 97!
-date: "2021-01-13"
+title: Day 98!
+date: "2021-01-14"
 ---
 Still taking a break with my Landing Page project and still been working on Javascript Algorithms and Data Structures Certification on[freecodecamp](https://www.freecodecamp.org/learn/), as well as the Responsive Web Design Certification.
 
