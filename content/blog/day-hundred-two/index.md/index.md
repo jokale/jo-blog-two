@@ -19,4 +19,3 @@ Despite it all I have deployed my project here it is [Intro project](https://int
 
 
 
-https://intro-comp.vercel.app/
