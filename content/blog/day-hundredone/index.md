@@ -1,6 +1,6 @@
 ---
 title: Day 101/100
-date: "2021-01-16"
+date: "2021-01-17"
 ---
 
 Officially the challenge is over but I am still learning everyday so I feel like it would be good to keep going with the challenge.

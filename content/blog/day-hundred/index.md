@@ -1,6 +1,6 @@
 ---
 title: Day 100!
-date: "2021-01-16"
+date: "2021-01-17"
 ---
 
 Finally made it to day 100
