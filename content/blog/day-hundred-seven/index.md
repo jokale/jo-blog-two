@@ -1,6 +1,6 @@
 ---
 title: Day 104-107/100
-date: "2021-01-23"
+date: "2021-01-27"
 ---
 
 I have been working on a new project [Pricing toggle](https://github.com/jokale/pricing-comp) built entirely with just HTML and CSS whilst utilising a toggle.
