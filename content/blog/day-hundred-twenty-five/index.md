@@ -25,6 +25,10 @@ Specifically today I will be working on :
 
 #### Updates:
 
+The Toggle on my pricing component project was something I was really struggling with for days but sometimes taking time away from something and coming back to it with a fresh mind makes all the difference!
+ I was able to solve the toggle issue in 20 minutes! Had I not pushed I wouldn't have been able to figure it out! 
+
+ Here it is live [Pricing Component](https://pricing-comp.vercel.app/)
 
 ##### My links 
 [Medium](https://medium.com/@kalemajoanna)
